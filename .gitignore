@@ -1,0 +1,4 @@
+lib/
+*.o
+*.a
+tcp_socket_pool
