@@ -1,7 +1,7 @@
 #### Simple TCP Socket Pool server
 
 ##### Usage:
-###### Instalation
+###### Installation
 ```
 git clone https://github.com/vitdevelop/tcp_socket_pool.git
 cd tcp_socket_pool
